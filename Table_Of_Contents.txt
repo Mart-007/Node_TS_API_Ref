@@ -391,7 +391,7 @@
         dotenv.config();
         Next, within this file, update the App Configuration section as follows to make use of the router:
 
-        /**
+        /*
         *  App Configuration
         */
 

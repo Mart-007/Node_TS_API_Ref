@@ -13,7 +13,7 @@ dotenv.config();
  }
 
  const PORT: number = parseInt(process.env.port as string, 10)
-
+ 
  const app = express();
  
  //App Configuration
