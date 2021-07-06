@@ -1,6 +1,6 @@
 //Required external Modules and Interfaces
 import express, { Request, Response } from 'express';
-import * as ItemService from './items.interface';
+import * as ItemService from './items.service';
 import { Item, BaseItem } from './item.interface';
 
 //Router Definition
